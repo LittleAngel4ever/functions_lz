@@ -9,7 +9,6 @@ def sum_of_digits(a):                          #Функция для нахож
         summ = summ + i
     return summ
 
-
 def main():
     print("Введите число для поиска суммы его цифр: ") #Вводим число для поиска суммы
     number = input()

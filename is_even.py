@@ -10,4 +10,5 @@ def main():
     if check == 1 : print("Число четно")    #Выводим резльтат в консоль
     elif check == 2 : print("Число нечетно")
 
+
 main()
